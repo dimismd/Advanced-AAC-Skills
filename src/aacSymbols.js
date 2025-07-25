@@ -40,13 +40,12 @@ export const categories = [
     symbols: [
       { img: '🧩', text: 'Παιχνίδι', color: '#ffd54f' },
       { img: '🚶‍♂️', text: 'Περπάτημα', color: '#4db6ac' },
+      { img: '🏃‍♂️', text: 'Τρέξιμο', color: '#4db6ac' },
+      { img: '🏊‍♂️', text: 'Κολύμβηση', color: '#4fc3f7' },
+      { img: '🚴‍♂️', text: 'Ποδηλασία', color: '#ffd54f' },
       { img: '📚', text: 'Διάβασμα', color: '#ba68c8' },
       { img: '🎵', text: 'Μουσική', color: '#4fc3f7' },
-<<<<<<< HEAD
       { img: '/aac-app/peppa.png', text: 'Πέπα', color: '#f06292' },
-=======
-      { img: '/peppa.png', text: 'Πέπα', color: '#f06292' },
->>>>>>> da5cfa978c5ea04b4255270c8ebe78fcadbfb567
       { img: '🚗', text: 'Αυτοκίνητο', color: '#90caf9' },
       { img: '😴', text: 'Ύπνος', color: '#9575cd' },
       { img: '📺', text: 'Τηλεόραση', color: '#e57373' },
